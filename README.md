@@ -22,6 +22,6 @@ Welcome to my GitHub profile! I'm a developer and learning designer based in Mad
 
 ## Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/yago-bolivar/)]
+- [LinkedIn](https://www.linkedin.com/in/yago-bolivar/)
 - [Medium](https://leroidubuffet.medium.com/)
 - [www.yagobolivar.es](http://www.yagobolivar.es/)
