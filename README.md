@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a developer and learning designer based in Mad
 
 ## About Me
 
-- 🔭 I’m currently working on a course about Generative Artificial Intelligence for Developers
+- 🔭 I’m currently creating a course about Generative Artificial Intelligence for Developers
 - 🌱 I’m currently learning Bash
 - ⚡ I am a student at 42 Fundación Telefónica Madrid
 
@@ -13,6 +13,8 @@ Welcome to my GitHub profile! I'm a developer and learning designer based in Mad
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![AWS Certified Solutions Architect Associate](https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect%20-%20Associate-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## Projects
 - [Minitalk](https://github.com/leroidubuffet/minitalk) Minitalk is a simple communication program which implements a server and a client to send and receive messages using UNIX signals. The project utilizes `SIGUSR1` and `SIGUSR2` signals to transmit messages bit by bit across processes.
