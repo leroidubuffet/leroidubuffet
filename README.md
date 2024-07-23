@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a developer and learning designer based in Mad
 
 - 🔭 I’m currently working on a course about Generative Artificial Intelligence for Developers
 - 🌱 I’m currently learning Bash
-- ⚡ I am a student at 42 Fundación Telefónica
+- ⚡ I am a student at 42 Fundación Telefónica Madrid
 
 ## My GitHub Stats
 
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=leroidubuffet&show_icons=true&theme=radical)
 
 ## Languages and Tools:
 
