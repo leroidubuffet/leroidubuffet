@@ -8,10 +8,6 @@ Welcome to my GitHub profile! I'm a developer and learning designer based in Mad
 - 🌱 I’m currently learning Bash
 - ⚡ I am a student at 42 Fundación Telefónica Madrid
 
-## My GitHub Stats
-
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=leroidubuffet&show_icons=true&theme=radical)
-
 ## Languages and Tools:
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -26,6 +22,6 @@ Welcome to my GitHub profile! I'm a developer and learning designer based in Mad
 
 ## Let's Connect
 
-- **[LinkedIn]**(https://www.linkedin.com/in/yago-bolivar/)]
-- **[Medium]**(https://leroidubuffet.medium.com/)
-- **[www.yagobolivar.es]**(http://www.yagobolivar.es/)
+- [LinkedIn](https://www.linkedin.com/in/yago-bolivar/)]
+- [Medium](https://leroidubuffet.medium.com/)
+- [www.yagobolivar.es](http://www.yagobolivar.es/)
