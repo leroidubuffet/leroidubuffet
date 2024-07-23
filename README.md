@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a developer and learning designer based in Mad
 - 🌱 I’m currently learning Bash
 - ⚡ I am a student at 42 Fundación Telefónica Madrid
 
-## Languages and Tools:
+## Languages and Tools
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
