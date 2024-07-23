@@ -21,6 +21,7 @@ Welcome to my GitHub profile! I'm a developer and learning designer based in Mad
 - [fract-ol](https://github.com/leroidubuffet/fract-ol) This is a C program that generates fractals and displays them on a window using the MiniLibX graphics library.
 - [ft_printf](https://github.com/leroidubuffet/ft_printf)A custom implementation of the C library function printf() in C.
 - [TRAINxR](https://github.com/leroidubuffet/TRAINxR_flask) The TRAINxR Trainer Application is a fully functional prototype of a web-based training tool that allows trainers to create and manage training sessions.
+- [TimeApp](https://github.com/leroidubuffet/timeApp)TimeApp is a simple and elegant timer application built with HTML, CSS, and JavaScript.
 
 ## Let's Connect
 
