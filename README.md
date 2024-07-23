@@ -1,6 +1,6 @@
 # Hello, I'm Yago! 👋
 
-Welcome to my GitHub profile! I'm a developer and learning designer based in Madrid. I'm passionate about Artificial Intelligence, and I try to create projects that make a difference.
+I'm a developer and learning designer based in Madrid. I'm passionate about Artificial Intelligence, and I try to create projects that make a difference.
 
 ## About Me
 
