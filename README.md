@@ -5,7 +5,7 @@ I'm a developer and learning designer based in Madrid. I'm passionate about Arti
 ## About Me
 
 - 🔭 I’m currently creating a course about Generative Artificial Intelligence for Developers
-- 🌱 I’m currently learning Bash
+- 🌱 I’m currently learning networking
 - ⚡ I am a student at 42 Fundación Telefónica Madrid
 
 ## Languages and Tools
@@ -17,6 +17,7 @@ I'm a developer and learning designer based in Madrid. I'm passionate about Arti
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## Projects
+- [Minishell](https://github.com/leroidubuffet/minishell) Minishell is a custom implementation of a basic UNIX command-line interpreter, built in C. This project aims to replicate core functionalities of shells like bash, including command execution, pipes, redirections, environment variable management, and signal handling.
 - [Minitalk](https://github.com/leroidubuffet/minitalk) Minitalk is a simple communication program which implements a server and a client to send and receive messages using UNIX signals. The project utilizes `SIGUSR1` and `SIGUSR2` signals to transmit messages bit by bit across processes.
 - [fract-ol](https://github.com/leroidubuffet/fract-ol) This is a C program that generates fractals and displays them on a window using the MiniLibX graphics library.
 - [ft_printf](https://github.com/leroidubuffet/ft_printf)A custom implementation of the C library function printf() in C.
