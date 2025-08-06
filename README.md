@@ -4,9 +4,8 @@ I'm a developer and learning designer based in Madrid. I'm passionate about Arti
 
 ## About Me
 
-- 🔭 I’m currently creating a course about Generative Artificial Intelligence for Developers
-- 🌱 I’m currently learning networking
-- ⚡ I am a student at 42 Fundación Telefónica Madrid
+- 🔭 I’m currently updating a course about Generative Artificial Intelligence for Developers
+- 🌱 I’m currently learning Big Data
 
 ## Languages and Tools
 
