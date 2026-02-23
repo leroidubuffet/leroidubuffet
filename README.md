@@ -4,8 +4,8 @@ I'm a developer and learning designer based in Madrid. I'm passionate about Arti
 
 ## About Me
 
-- 🔭 I’m currently updating a course about Generative Artificial Intelligence for Developers
-- 🌱 I’m currently learning Big Data and SQL
+- 🔭 I’m currently working on a ML project
+- 🌱 I’m currently learning about Bluesky bots and gathering AI predictions
 
 ## Languages and Tools
 
